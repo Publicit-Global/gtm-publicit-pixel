@@ -1,5 +1,5 @@
 homepage: "https://publicit.com"
 documentation: "https://github.com/Publicit-Global/gtm-publicit-pixel#readme"
 versions:
-  - sha: 9d6359cbf518a43fc1b0f50a2cd24010c34d649b
+  - sha: 6449542307fa3983dae00a51b08988cc6980828d
     changeNotes: Initial release.
