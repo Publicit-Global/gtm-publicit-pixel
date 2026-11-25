@@ -9,7 +9,7 @@ purchases, without editing your site's code.
 1. In Google Tag Manager, open **Templates → Search Gallery** and add **Publicit Pixel**.
 2. Create a tag of type **Publicit Pixel**:
    - **Pixel key**: your `pk_live_…` key, from **Audiences** in the
-     [Publicit dashboard](https://app.publicit.com).
+     [Publicit dashboard](https://dashboard.publicit.com).
    - **Event**: *Page view*.
    - **Trigger**: *All Pages*.
 3. To measure purchases, add a second tag of type **Publicit Pixel**:

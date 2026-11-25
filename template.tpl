@@ -39,7 +39,7 @@ ___TEMPLATE_PARAMETERS___
     "name": "pixelKey",
     "displayName": "Pixel key",
     "simpleValueType": true,
-    "help": "Your pixel key (pk_live_\u2026 or pk_test_\u2026), from Audiences in the Publicit dashboard (app.publicit.com).",
+    "help": "Your pixel key (pk_live_\u2026 or pk_test_\u2026), from Audiences in the Publicit dashboard (dashboard.publicit.com).",
     "valueValidators": [
       {
         "type": "NON_EMPTY"
