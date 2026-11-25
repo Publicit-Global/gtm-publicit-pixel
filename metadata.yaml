@@ -1,5 +1,7 @@
 homepage: "https://publicit.com"
 documentation: "https://github.com/Publicit-Global/gtm-publicit-pixel#readme"
 versions:
+  - sha: d18a5795dbedb460c949443d44abb8ce704deec3
+    changeNotes: Pixel key help text points at dashboard.publicit.com.
   - sha: 6449542307fa3983dae00a51b08988cc6980828d
     changeNotes: Initial release.
